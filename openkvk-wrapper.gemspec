@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'openkvk'
+  s.name        = 'openkvk-wrapper'
   s.version     = '0.0.1'
   s.date        = '2015-03-13'
   s.summary     = "Wrapper for openkvk.nl"
