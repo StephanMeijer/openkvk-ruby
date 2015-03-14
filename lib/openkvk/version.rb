@@ -2,7 +2,7 @@ module OpenKVK
   def version
     major = 0
     minor = 0
-    tiny  = 2
+    tiny  = 3
 
     [major, minor, tiny].join('.')
   end
